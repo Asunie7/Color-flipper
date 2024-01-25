@@ -1,4 +1,4 @@
 **First Javascript project**
 
---> created a Color flipper
---> inspired by freecodecamp
+--> created a Color flipper  
+--> inspired by freecodecamp  
